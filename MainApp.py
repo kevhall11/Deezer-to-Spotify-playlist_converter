@@ -1,3 +1,6 @@
+#MainApp.py     -really basic gui using tkinter 
+#Kevin Halleran 6-2-2023
+
 from tkinter import *
 import PlaylistConverter
 from tkinter import messagebox
