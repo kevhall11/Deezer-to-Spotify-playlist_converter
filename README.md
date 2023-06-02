@@ -4,6 +4,6 @@
 this will allow you to create a project and when creating your project set the redirect uri to Https://localhost or 127.0.0.0
 
 # for this project you will need to install the 
-pip install spotipy
-pip install deezer-python
-pip install google
+\npip install spotipy
+\npip install deezer-python
+\npip install google
