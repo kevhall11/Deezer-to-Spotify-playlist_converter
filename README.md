@@ -7,7 +7,9 @@ After you have your keys you will need to insert your keys into the secrets.py f
 will allow you to add single songs to spotify 
 # For this project you will need to install the 
 ## pip install spotipy
+### https://spotipy.readthedocs.io/en/2.22.1/
 ## pip install deezer-python
+### https://developers.deezer.com/
 ## pip install google
 
 
